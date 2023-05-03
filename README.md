@@ -16,4 +16,21 @@ The following is the list of Python Libraries used for the narrative:
 > * sklearn.cluster.KMeans
 > * sklearn.metrics.accuracy_score
 > * sklearn.model_selection.train_test_split
+> * sklearn.model_selection.cross_val_score
 4. **Plotly**
+> * plotly.express.scatter()
+> * plotly.express.box()
+> * plotly.express.3d_scatter()
+> * plotly.express.bar()
+
+* The main aim of the analysis was to predict the target (win: 0/1) of the newer result based upon the features given to us to work with.
+* To prepare our data for training, number of features had to be reduced down.
+* Correlation among the features was analysed and redundant features having high correlation were shot-down.
+* Now with the less features, the data was prepared for training on a **Gaussian Naive Bayes classifier**.
+* Accuracy of this model was tested using a 5-fold cross validation score. The model actually gave a **high accuracy score of 0.9049230769230769**.
+* Another way of unsupervised learning was the use of **KMeans clustering**.
+* Two clusters were allowed to form and the accuracy was compared with original data.
+* To visualize the clustering, the dimensionality of the features was reduced to 3 using **Principal Component Analysis (PCA)** so clusters were plotted in 3D.
+* Finally, there were some ways using Pandas and NumPy to filter out important statistical data/stats and the same was plotted for using Plotly graphs.
+
+Please refer to the [Colab link](https://colab.research.google.com/drive/1Z0mJhQlPfRp8m01fKYLkdour3K9RcWca?usp=sharing) to view the interactive Plotly graphs.
