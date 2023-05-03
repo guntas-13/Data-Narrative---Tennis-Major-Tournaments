@@ -1,5 +1,5 @@
-# Data-Narrative_Tennis-Major-Tournaments
-The following repo presents forth a Data Narrative on a dataset using machine learning libraries like scikit-learn and graphical aid using plotly.
+# Data Narrative: Tennis Major Tournaments Dataset
+This repo presents forth a Data Narrative prepared as a part of a course project. The data analysis involves the use of Clustering, Classfication, and Regression using machine learning models in python's Scikit-Learn Library.
 ## The Overview
 The Narrative was part of the **ES-114: Probability, Statistics, and Data Visualization** course offered to the first-year B.Tech students for the first time at the **Indian Institute of Technology, Gandhinagar.**
 The Machine Learning Course **ES-113: Data Centric Computing** here at **IIT, Gandhinagar,** was conducted in coherence with this course.
