@@ -3,7 +3,7 @@ This repo presents forth a Data Narrative prepared as a part of a course project
 ## The Overview
 The Narrative was part of the **ES-114: Probability, Statistics, and Data Visualization** course offered to the first-year B.Tech students during the **April '23** for the first time at the **Indian Institute of Technology, Gandhinagar.**
 The Machine Learning Course **ES-113: Data Centric Computing** here at **IIT, Gandhinagar,** was conducted in coherence with this course.
-The Narrative allowed for the analysis of the the [Tennis Major Tournaments](https://doi.org/10.24432/C54C7K) dataset using **Clustering, Classification,** and **Regression**. Several of Probabilistic and Data Analystic tools like **Covariance Matrices, Correlation Factors,** and **Principal Components Analysis** were employed in the narrative.
+The Narrative allowed for the analysis of the [Tennis Major Tournaments](https://doi.org/10.24432/C54C7K) dataset using **Clustering, Classification,** and **Regression**. Several of Probabilistic and Data Analystic tools like **Covariance Matrices, Correlation Factors,** and **Principal Components Analysis** were employed in the narrative.
 
 ## Libraries used and Analysis Approach
 The following is the list of Python Libraries used for the narrative:
